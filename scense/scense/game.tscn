@@ -7,7 +7,7 @@
 [node name="game" type="Node2D"]
 
 [node name="player" parent="." instance=ExtResource("1_lnmce")]
-position = Vector2(-2, -1)
+position = Vector2(-15, 19)
 
 [node name="Camera2D" type="Camera2D" parent="."]
 zoom = Vector2(4, 4)
@@ -16,4 +16,5 @@ zoom = Vector2(4, 4)
 position = Vector2(4, 62)
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="StaticBody2D"]
+position = Vector2(0, 16)
 shape = SubResource("WorldBoundaryShape2D_oafn1")
