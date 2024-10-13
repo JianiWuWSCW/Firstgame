@@ -22,11 +22,12 @@ Dialogic="*res://addons/dialogic/Core/DialogicGameHandler.gd"
 [dialogic]
 
 directories/dch_directory={
-"wuyi": "res://wuyi.dch"
+"xiangyang": "res://xiangyang.dch"
 }
 directories/dtl_directory={
 "timeline": "res://timeline.dtl"
 }
+glossary/default_case_sensitive=true
 
 [editor_plugins]
 
