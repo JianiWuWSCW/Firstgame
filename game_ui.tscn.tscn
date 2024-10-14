@@ -1,3 +1,6 @@
-[gd_scene format=3 uid="uid://gbe3hh6mn4vi"]
+[gd_scene load_steps=2 format=3 uid="uid://gbe3hh6mn4vi"]
+
+[ext_resource type="Script" path="res://game_ui.tscn.gd" id="1_uyd6k"]
 
 [node name="GameUi_tscn" type="Node2D"]
+script = ExtResource("1_uyd6k")
