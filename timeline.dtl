@@ -1,8 +1,10 @@
 [background arg="res://assects/backgrounds/background orange xiangyang.jpg" fade="0.0"]
+join xiangyang left [animation="Zoom Center In"]
+xiangyang: hi
 Please choose you character\
 \
 
-join xiangyang left [z_index="3"]
-xiangyang: hi
+[background arg="res://assects/backgrounds/sunset.webp" fade="0.0"]
 - hello
+- 
 [background fade="0.0"]
