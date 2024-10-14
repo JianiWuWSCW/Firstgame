@@ -1,5 +1,5 @@
 [background arg="res://assects/backgrounds/background orange xiangyang.jpg" fade="0.0"]
-join xiangyang (normal) leftmost [animation="Zoom Center In"]
+join xiangyang (normal) left [wait="true"]
 xiangyang (normal): Hi,my name is xiangyang !
 join "Yi WU" rightmost
 "Yi WU": hello I'm wuyi.
@@ -7,7 +7,8 @@ Please choose you character.\
 Background of xiangyang\:\
 "Hi My name is Xiangyang,I'm a volleyball athlete.“\
 ”Hello My name is Wu Yi.I'm a doctor."
-[background arg="res://assects/backgrounds/sunset.webp" fade="0.0"]
-- hello
-- 
+- xiangyang
+-  | [if {} == ""]
+- wuyi
 [background fade="0.0"]
+[background arg="res://assects/backgrounds/sunset.webp" fade="0.0"]

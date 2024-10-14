@@ -24,7 +24,7 @@
 "display_name": "xiangyang",
 "mirror": false,
 "nicknames": [""],
-"offset": Vector2(-100, -300),
+"offset": Vector2(-100, -250),
 "portraits": {
 "New portrait": {
 "export_overrides": {
