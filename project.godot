@@ -23,7 +23,10 @@ Dialogic="*res://addons/dialogic/Core/DialogicGameHandler.gd"
 
 directories/dch_directory={
 "Yi WU": "res://assects/backgrounds/Yi WU.dch",
-"xiangyang": "res://xiangyang.dch"
+"wuyi": "res://wuyi.dch",
+"xiangyang": "res://xiangyang.dch",
+"yaya": "res://assects/backgrounds/yaya.dch",
+"yaya teenager": "res://assects/backgrounds/yaya teenager.dch"
 }
 directories/dtl_directory={
 "timeline": "res://timeline.dtl"

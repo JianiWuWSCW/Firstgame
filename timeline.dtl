@@ -1,7 +1,11 @@
-[background arg="res://assects/backgrounds/background orange xiangyang.jpg" fade="0.0"]
-join xiangyang (normal) left [wait="true"]
-xiangyang (normal): Hi,my name is xiangyang !
-join "Yi WU" rightmost
+[background arg="res://assects/backgrounds/stairs outside.jpg" fade="0.0"]
+join yaya (normal) left [wait="true"]
+yaya (normal): Hi,my name is yaya !
+join "yaya teenager" rightmost
+yaya: <Empty Text Event>
+- 
+[wait time="2.0"]
+yaya: <Empty Text Event>
 "Yi WU": hello I'm wuyi.
 Please choose you character.\
 Background of xiangyang\:\
