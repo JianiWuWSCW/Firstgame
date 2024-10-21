@@ -1,8 +1,8 @@
-[background arg="res://assects/backgrounds/stairs outside.jpg" fade="0.0"]
+[background arg="res://assects/backgrounds/sky pink.jpg" fade="0.0"]
 join yaya (normal) left [wait="true"]
-yaya (normal): Hi,my name is yaya !
+yaya (normal): Hi,my name is Okonite !
 join "yaya teenager" rightmost
-yaya: <Empty Text Event>
+"yaya teenager": <Empty Text Event>
 "Yi WU": hello I'm wuyi.
 jump timeline2/
 join  center
