@@ -1,4 +1,4 @@
-[background arg="res://assects/backgrounds/sky pink.jpg" fade="0.0"]
+[background arg="res://assects/backgrounds/stairs outside.jpg" fade="0.0"]
 join yaya (normal) left [wait="true"]
 yaya (normal): Hi,my name is Okonite !
 join "yaya teenager" rightmost
